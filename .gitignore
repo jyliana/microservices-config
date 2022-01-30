@@ -4,6 +4,7 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
+
 ### STS ###
 .apt_generated
 .classpath
@@ -17,6 +18,7 @@ target/
 .idea
 *.iws
 *.iml
+*.xml
 *.ipr
 
 ### NetBeans ###
